@@ -1,0 +1,11 @@
+BuddyAI Grandma Test Script:
+
+1. Open BuddyAI on iPad.
+2. Explain: "Press the big button and talk to BuddyAI."
+3. Let senior press 🎤 TALK TO BUDDYAI.
+4. Observe: ease of pressing, speaking, and understanding.
+5. Test reminders: set one and confirm audio response.
+6. Test Premium checkbox: ensure it unlocks unlimited reminders.
+7. Ask: "Was anything confusing?" and "Do you feel safe using it?"
+8. Repeat for fun interactions.
+9. Adjust text, voice, or button if needed.
